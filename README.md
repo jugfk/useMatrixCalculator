@@ -6,7 +6,7 @@
 
 * 다운로드하기
 ```
-git clone https://github.com/jetsonworld/useMatrixCalculator
+git clone https://github.com/jetsonworld/useMatrixCalculator.git
 ```
 
 * 주피터 노트북 실행하기
